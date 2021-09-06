@@ -1,6 +1,6 @@
 Virtual Private Cloud (VPC), CIDR Block 
 
-![](AWS_deployment_networking_security.png)
+![alt text](https://github.com/ioanan11/SRE_AWS_VPC_networking/blob/main/AWS_deployment_networking_security.png)
 
 -What is a VPC?
 	Isolated virtual network - it allows us to control virtual environment includinf selection of your own IPs address range, we can create multiple subnets within one VPC with specific network configuration. We can use both IPv4 and IPv6 for most resources, it provides security for your services or instances.
