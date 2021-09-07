@@ -44,6 +44,9 @@ Task:
 	set inbound and outbound rules for this (all ports must be allowed , 22, 3000 etc)
 6. create a Security Group for our app
 
+![alt text](https://github.com/ioanan11/SRE_AWS_VPC_networking/blob/main/Screenshot%202021-09-07%20135231.png)
+
+
 **How to create a VPC**
 
 1. AWS Dashboard -> VPC -> Your VPC -> Create VPC
